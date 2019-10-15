@@ -105,7 +105,7 @@ plt.imsave('test_3.png',new_image,cmap='gray')
 
 # In[49]:
 
-
+#
 #renk ters çevirme fonksiyonu
 def my_inverse(im_1):
     return(255-im_1)
