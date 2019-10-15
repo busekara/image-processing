@@ -7,7 +7,7 @@
 ########################################2
 import os
 import numpy as np
-import mathplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 os.getcwd()
 os.listdir() #kaynak adresi gösterir. işlenecek resim bu adresteki yere atılır.
 
