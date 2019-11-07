@@ -10,7 +10,7 @@ import numpy as np
 # In[17]:
 
 
-im_1=plt.imread('ekle.jpg')
+im_1=plt.imread('istanbul.jpg')
 
 
 # In[18]:
@@ -22,7 +22,7 @@ im_1.shape
 # In[24]:
 
 
-im_2=np.zeros((237,213),dtype=np.uint8)
+im_2=np.zeros((532,798),dtype=np.uint8)
 im_2.shape
 
 
