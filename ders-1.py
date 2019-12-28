@@ -65,6 +65,7 @@ plt.imsave('Merhabasonsinif.jpg',im_2) #yazılan isimle kaydedildi.
 new_image=np.zeros((m,n),dtype=float)
 
 
+
 # In[35]:
 
 
