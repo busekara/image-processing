@@ -102,6 +102,7 @@ vector_2=[3,0]
 my_distance(vector_1,vector_2)
 
 
+
 # In[41]:
 
 vector_3=[0,4,0]
